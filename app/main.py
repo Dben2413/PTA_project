@@ -1,4 +1,3 @@
-
 from redis_fastapi import FastAPIRedis, AsyncRedisDep
 
 from typing import Annotated
